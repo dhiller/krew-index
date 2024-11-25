@@ -1,3 +1,5 @@
+**⚠️ This repository is deprecated and no longer maintained.**
+
 # krew-index
 
 This is the Plugin Index Repository for [krew kubectl plugin manager][krew].
